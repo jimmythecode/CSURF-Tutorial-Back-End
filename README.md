@@ -1,4 +1,4 @@
-# CSURF-Postman-Tutorial
+# CSURF-Back-End-Tutorial
 Simple NodeJS server to demonstrate CSURF Working. To install:
 
 ```
